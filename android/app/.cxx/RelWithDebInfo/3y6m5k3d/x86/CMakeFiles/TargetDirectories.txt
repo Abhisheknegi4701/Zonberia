@@ -1,0 +1,2 @@
+/Users/abhishek/FreeLance/prashant/Zonberia/android/app/.cxx/RelWithDebInfo/3y6m5k3d/x86/CMakeFiles/edit_cache.dir
+/Users/abhishek/FreeLance/prashant/Zonberia/android/app/.cxx/RelWithDebInfo/3y6m5k3d/x86/CMakeFiles/rebuild_cache.dir
